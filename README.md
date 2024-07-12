@@ -13,7 +13,7 @@ Explore the Web3 team projects developed by our students. Below, you will find a
 
 
 ### Project 2
-- Description: Traceability of blood donations and their components, including erythrocytes, platelets, and red blood cells.  
+- Description: Traceability of blood donations & components, including erythrocytes, platelets, and red blood cells.  
 - Repository: https://github.com/codecrypto-academy/pfm-web3-jun24-2
 
 ### Project 3
