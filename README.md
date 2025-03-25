@@ -4,6 +4,26 @@
 
 Explore the Web3 team projects developed by our students. Below, you will find a list of editions and links to the repositories of these final projects.
 
+## FEB 2025
+EU's Digital Product Passport: Advancing transparency and sustainability
+
+### Project 1
+- Description: Traceability system for vehicles using a CO₂ passport to monitor emissions, ownership, and lifecycle data on blockchain.
+- Repository: https://github.com/codecrypto-academy/pfm-web3-feb25-1
+
+### Project 2
+- Description: Blockchain traceability for electronic devices such as smartphones, focusing on origin of components, assembly, and environmental impact.
+- Repository: https://github.com/codecrypto-academy/pfm-web3-feb25-2
+
+### Project 3
+- Description: Battery traceability solution for electric vehicles, tracking manufacturing data, lifespan, and recycling status on the blockchain.
+- Repository: https://github.com/codecrypto-academy/pfm-web3-feb25-3
+
+### Project 4
+- Description: Traceability system for electric scooter batteries, monitoring charge cycles, performance, and responsible disposal via blockchain.
+- Repository: https://github.com/codecrypto-academy/pfm-web3-feb25-eth
+
+
 ## NOV 2024
 
 ### Project 1
