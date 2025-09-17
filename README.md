@@ -4,6 +4,18 @@
 
 Explore the Web3 team projects developed by our students. Below, you will find a list of editions and links to the repositories of these final projects.
 
+## JUN 2025
+
+### Hyperledger Fabric
+Decentralized platform that enables complete traceability of products from
+their origin to the end consumer.
+
+### Solana
+Community management system that allows members to create and participate in
+polls with multiple-choice questions.
+
+- Repository: https://github.com/codecrypto-academy/pfm-web3-nov24-1
+
 ## FEB 2025
 EU's Digital Product Passport: Advancing transparency and sustainability
 
