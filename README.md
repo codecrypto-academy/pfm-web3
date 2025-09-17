@@ -14,7 +14,7 @@ their origin to the end consumer.
 Community management system that allows members to create and participate in
 polls with multiple-choice questions.
 
-- Repository: https://github.com/codecrypto-academy/pfm-web3-nov24-1
+- Repository: https://github.com/codecrypto-academy/pfm-web3-jun25
 
 ## FEB 2025
 EU's Digital Product Passport: Advancing transparency and sustainability
